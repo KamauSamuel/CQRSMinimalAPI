@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rm0cglKxFH9eEek+HkkmhShCCuHn6pa81QzR2v6DotY=",
+  "Source": "BooksMinimalWebAPI",
+  "BasePath": "_content/BooksMinimalWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
